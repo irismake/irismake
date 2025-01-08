@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:c0dccd,100:212523&height=300&section=header&text=Welcome&fontSize=90&fontColor=f5faf7&animation=fadeIn&stroke=212523)
 
 <!--
 **irismake/irismake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
