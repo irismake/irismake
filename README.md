@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:c0dccd,100:212523&height=200&section=header&text=Welcome&fontSize=50&fontColor=f5faf7&animation=fadeIn&stroke=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:c0dccd,100:212523&height=150&section=header&text=Welcome&fontSize=50&fontColor=f5faf7&animation=fadeIn&stroke=FFFFFF)
 
 ### Tech Stack  
 
@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/Dart-40c4ff?style=flat&logo=Dart&logoColor=01579b"/></a>
 <img src="https://img.shields.io/badge/Python-376e9c?style=flat&logo=python&logoColor=ffd43b"/></a>
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white"/></a>
+
+### Tech Stack  
 
 <!--
 **irismake/irismake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
