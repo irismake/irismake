@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:c0dccd,100:212523&height=300&section=header&text=Welcome&fontSize=90&fontColor=f5faf7&animation=fadeIn&stroke=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:c0dccd,100:212523&height=200&section=header&text=Welcome&fontSize=50&fontColor=f5faf7&animation=fadeIn&stroke=FFFFFF)
 
 ### Tech Stack  
 
