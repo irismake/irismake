@@ -1,8 +1,18 @@
-<div align="left">
-    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:c0dccd,100:212523&height=150&section=header&text=KimGaHee&fontSize=50&fontColor=f5faf7&animation=fadeIn&stroke=FFFFFF" 
-         alt="Header Image" />
+### KimGaHee
+
+<div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://hits.seeyoufarm.com">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Firismake&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false" alt="GitHub Hits Badge"/>
+    </a>
+    <a href="mailto:iris3455@gmail.com" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=e43f30" alt="Gmail Badge"/>
+    </a>
 </div>
 
+<br><br>
+🍵 [Tistory](https://heenano.tistory.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/%EA%B0%80%ED%9D%AC-%EA%B9%80-iris/)
+<br><br>
 
 ### Tech Stack  
 
@@ -20,16 +30,8 @@
 
 <br>
 
-### Contact
-<a href="https://www.linkedin.com/in/%EA%B0%80%ED%9D%AC-%EA%B9%80-iris/" target="_blank" style="text-decoration: none;">
-    <img src="https://image.irismake.shop/test/Group+267.png" alt="Custom Icon" style="width: 66px; height: 20px;"/>
-</a>
-<a href="https://heenano.tistory.com/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/tistory-ff5a4a?style=flat&logo=tistory&logoColor=white" alt="Tistory Badge"/>
-</a>
-<a href="mailto:iris3455@gmail.com" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=e43f30" alt="Gmail Badge"/>
-</a>
+
+
 
 <!--
 **irismake/irismake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
