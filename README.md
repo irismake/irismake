@@ -1,6 +1,8 @@
-### KimGaHee
+<div align="left">
+    <img src="https://capsule-render.vercel.app/api?type=venom&color=0:c0dccd,100:212523&height=150&section=header&text=KimGaHee&fontSize=50&fontColor=f5faf7&animation=fadeIn&stroke=FFFFFF" 
+         alt="Header Image" />
+</div>
 
-<br><br>
 
 ### Tech Stack  
 
@@ -16,9 +18,9 @@
 <img src="https://img.shields.io/badge/Python-376e9c?style=flat&logo=python&logoColor=ffd43b"/></a>
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white"/></a>
 
-<br><br>
+<br>
 
-### About me
+### Contact
 <a href="https://www.linkedin.com/in/%EA%B0%80%ED%9D%AC-%EA%B9%80-iris/" target="_blank" style="text-decoration: none;">
     <img src="https://image.irismake.shop/test/Group+267.png" alt="Custom Icon" style="width: 66px; height: 20px;"/>
 </a>
