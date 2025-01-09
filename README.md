@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:c0dccd,100:212523&height=150&section=header&text=KimGaHee&fontSize=50&fontColor=f5faf7&animation=fadeIn&stroke=FFFFFF)
+### KimGaHee
+
+<br><br>
 
 ### Tech Stack  
 
