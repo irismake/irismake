@@ -29,6 +29,8 @@
 
 <br><br>
 
+
+### Statistics
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github.com/irismake/github-stats-transparent/blob/output/generated/languages.svg" 
          alt="Languages" style="width: 30%; max-width: 100px;" />
