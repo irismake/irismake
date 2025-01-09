@@ -29,17 +29,6 @@
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=e43f30" alt="Gmail Badge"/>
 </a>
 
-<br><br>
-
-
-### Statistics
-<div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github.com/irismake/github-stats-transparent/blob/output/generated/languages.svg" 
-         alt="Languages" style="width: 45%; max-width: 100px;" />
-    <img src="https://github.com/irismake/github-stats-transparent/blob/output/generated/overview.svg" 
-         alt="Overview" style="width: 45%; max-width: 100px;" />
-</div>
-
 <!--
 **irismake/irismake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
