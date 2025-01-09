@@ -33,9 +33,9 @@
 ### Statistics
 <div style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://github.com/irismake/github-stats-transparent/blob/output/generated/languages.svg" 
-         alt="Languages" style="width: 30%; max-width: 100px;" />
+         alt="Languages" style="width: 45%; max-width: 100px;" />
     <img src="https://github.com/irismake/github-stats-transparent/blob/output/generated/overview.svg" 
-         alt="Overview" style="width: 30%; max-width: 100px;" />
+         alt="Overview" style="width: 45%; max-width: 100px;" />
 </div>
 
 <!--
