@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Python-376e9c?style=flat&logo=python&logoColor=ffd43b"/></a>
 <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white"/></a>
 
-<br>
+<br><br>
 
 ### About me
 <a href="https://www.linkedin.com/in/%EA%B0%80%ED%9D%AC-%EA%B9%80-iris/" target="_blank" style="text-decoration: none;">
@@ -26,6 +26,15 @@
 <a href="mailto:iris3455@gmail.com" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=e43f30" alt="Gmail Badge"/>
 </a>
+
+<br><br>
+
+<div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://github.com/irismake/github-stats-transparent/blob/output/generated/languages.svg" 
+         alt="Languages" style="width: 30%; max-width: 100px;" />
+    <img src="https://github.com/irismake/github-stats-transparent/blob/output/generated/overview.svg" 
+         alt="Overview" style="width: 30%; max-width: 100px;" />
+</div>
 
 <!--
 **irismake/irismake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
