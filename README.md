@@ -1,6 +1,5 @@
-# 😎GaHee Kim
+# 👩‍💻 GaHee Kim
 
-<br><br>
 
 ### Today
 <a href="https://hits.seeyoufarm.com">
