@@ -26,19 +26,9 @@
 <br><br>
 
 ### Contact
-<div>
-    <a href="https://www.linkedin.com/in/%EA%B0%80%ED%9D%AC-%EA%B9%80-iris/" target="_blank" style="text-decoration: none;">
-        <img src="https://image.irismake.shop/test/Group+267.png" alt="Custom Icon" style="width: 66px; height: 20px;"/>
-    </a>
-    <a href="https://heenano.tistory.com/" target="_blank" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/tistory-ff5a4a?style=flat&logo=tistory&logoColor=white" alt="Tistory Badge"/>
-    </a>
-    <a href="mailto:iris3455@gmail.com" style="text-decoration: none;">
-        <img src="https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=e43f30" alt="Gmail Badge"/>
-    </a>
-</div>
-
-
+[<img src="https://image.irismake.shop/test/Group+267.png" alt="Custom Icon" width="66" height="20">](https://www.linkedin.com/in/%EA%B0%80%ED%9D%AC-%EA%B9%80-iris/)
+[![Tistory Badge](https://img.shields.io/badge/tistory-ff5a4a?style=flat&logo=tistory&logoColor=white)](https://heenano.tistory.com/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=e43f30)](mailto:iris3455@gmail.com)
 
 
 
