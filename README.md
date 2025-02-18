@@ -11,9 +11,6 @@
 ### Tech Stack
 <div>
     <img src="https://img.shields.io/badge/Flutter-01579b?style=flat&logo=Flutter&logoColor=54c5f8" alt="Flutter Badge"/>
-    <img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=ffffff" alt="Amazon S3 Badge"/>
-    <img src="https://img.shields.io/badge/awslambda-FF9900?style=flat&logo=awslambda&logoColor=ffffff" alt="AWS Lambda Badge"/>
-    <img src="https://img.shields.io/badge/amazonapigateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=ffffff" alt="API Gateway Badge"/>
     <img src="https://img.shields.io/badge/Supabase-212529?style=flat&logo=Supabase&logoColor=3FCF8E" alt="Supabase Badge"/><br>
     <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat&logo=Docker&logoColor=2496ED" alt="Docker Badge"/>
     <img src="https://img.shields.io/badge/gitkraken-000000?style=flat&logo=gitkraken&logoColor=179287" alt="GitKraken Badge"/>
