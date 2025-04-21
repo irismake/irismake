@@ -3,13 +3,9 @@
 ### Tech Stack
 <div>
     <img src="https://img.shields.io/badge/Flutter-01579b?style=flat&logo=Flutter&logoColor=54c5f8" alt="Flutter Badge"/>
-    <img src="https://img.shields.io/badge/Supabase-212529?style=flat&logo=Supabase&logoColor=3FCF8E" alt="Supabase Badge"/><br>
-    <img src="https://img.shields.io/badge/Docker-FFFFFF?style=flat&logo=Docker&logoColor=2496ED" alt="Docker Badge"/>
-    <img src="https://img.shields.io/badge/gitkraken-000000?style=flat&logo=gitkraken&logoColor=179287" alt="GitKraken Badge"/>
-    <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=ffffff" alt="Git Badge"/><br>
-    <img src="https://img.shields.io/badge/Dart-40c4ff?style=flat&logo=Dart&logoColor=01579b" alt="Dart Badge"/>
-    <img src="https://img.shields.io/badge/Python-376e9c?style=flat&logo=python&logoColor=ffd43b" alt="Python Badge"/>
-    <img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat&logo=micropython&logoColor=white" alt="MicroPython Badge"/>
+    <img src="https://img.shields.io/badge/Supabase-212529?style=flat&logo=Supabase&logoColor=3FCF8E" alt="Supabase Badge"/>
+    <img src="https://img.shields.io/badge/Swift-F05138?style=flat&logo=Swift&logoColor=FFFFFF" alt="Swift Badge"/>
+    <img src="https://img.shields.io/badge/Python-376e9c?style=flat&logo=python&logoColor=ffd43b" alt="Python Badge"/><br>
 </div>
 
 <br><br>
