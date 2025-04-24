@@ -1,4 +1,4 @@
-# 👩‍💻 GaHee Kim
+# GaHee Kim
 
 ### Tech Stack
 <div>
