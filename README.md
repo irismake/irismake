@@ -11,7 +11,6 @@
 <br><br>
 
 ##### ✉️ How to reach me
-[<img src="https://image.irismake.shop/test/Group+267.png" alt="Custom Icon" width="66" height="20">](https://www.linkedin.com/in/%EA%B0%80%ED%9D%AC-%EA%B9%80-iris/)
 [![Tistory Badge](https://img.shields.io/badge/tistory-ff5a4a?style=flat&logo=tistory&logoColor=white)](https://heenano.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=e43f30)](mailto:iris3455@gmail.com)
 
