@@ -11,7 +11,6 @@
 <br><br>
 
 ##### ✉️ How to reach me
-[![Tistory Badge](https://img.shields.io/badge/tistory-ff5a4a?style=flat&logo=tistory&logoColor=white)](https://heenano.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ffffff?style=flat&logo=Gmail&logoColor=e43f30)](mailto:iris3455@gmail.com)
 
 
